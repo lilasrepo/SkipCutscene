@@ -1,11 +1,11 @@
-# SkipCutscene（繁中移植版 · TC12） / Traditional-Chinese Port
+# SkipCutscene（繁中移植版 · TC13） / Traditional-Chinese Port
 
 > 協助你跳過任務輪替：主線劇情的過場動畫。<br>
 > Helps you skip cutscenes in Duty Roulette: Main Scenario.
 
-**繁體中文**：這是 **[SkipCutscene](https://github.com/KangasZ/SkipCutscene)** 的繁體中文客戶端移植版，對應 **FFXIV 7.1 / yanmucorp Dalamud API12（.NET 9）**。本專案僅做相容性移植，**非官方、非原作維護**；所有原始功能與設計著作權歸原作者 **KangasZ**。
+**繁體中文**：這是 **[SkipCutscene](https://github.com/KangasZ/SkipCutscene)** 的繁體中文客戶端移植版，對應 **FFXIV 7.20 / yanmucorp Dalamud API13（.NET 9）**。本專案僅做相容性移植，**非官方、非原作維護**；所有原始功能與設計著作權歸原作者 **KangasZ**。
 
-**English**: A Traditional-Chinese-client port of **[SkipCutscene](https://github.com/KangasZ/SkipCutscene)** targeting **FFXIV 7.1 / yanmucorp Dalamud API12 (.NET 9)**. Compatibility port only — **unofficial and not maintained by the original author**. All original work © **KangasZ**.
+**English**: A Traditional-Chinese-client port of **[SkipCutscene](https://github.com/KangasZ/SkipCutscene)** targeting **FFXIV 7.20 / yanmucorp Dalamud API13 (.NET 9)**. Compatibility port only — **unofficial and not maintained by the original author**. All original work © **KangasZ**.
 
 ---
 
@@ -24,7 +24,7 @@ Lets you skip cutscenes such as those in Duty Roulette: Main Scenario, saving yo
    ```
    https://raw.githubusercontent.com/lilasrepo/DalamudPlugins/main/pluginmaster.json
    ```
-4. 輸入 `/xlplugins`，搜尋 **SkipCutscene (TC12)** → 安裝 → 啟用。
+4. 輸入 `/xlplugins`，搜尋 **SkipCutscene (TC13)** → 安裝 → 啟用。
 
 **English**
 1. Launch the Traditional-Chinese client with **XIVTCLauncher**.
@@ -33,14 +33,14 @@ Lets you skip cutscenes such as those in Duty Roulette: Main Scenario, saving yo
    ```
    https://raw.githubusercontent.com/lilasrepo/DalamudPlugins/main/pluginmaster.json
    ```
-4. Type `/xlplugins`, search **SkipCutscene (TC12)** → Install → Enable.
+4. Type `/xlplugins`, search **SkipCutscene (TC13)** → Install → Enable.
 
 ## 對應版本 / Compatibility
 
 | 項目 / Item | 版本 / Version |
 |---|---|
-| 遊戲 / Game | FFXIV 7.1（繁中客戶端 / TC client） |
-| Dalamud | yanmucorp API12（.NET 9） |
+| 遊戲 / Game | FFXIV 7.20（繁中客戶端 / TC client） |
+| Dalamud | yanmucorp API13（.NET 9） |
 | 移植自上游 / Ported from upstream | v3.0.1.5 |
 
 ## 原作與授權 / Credits & License
